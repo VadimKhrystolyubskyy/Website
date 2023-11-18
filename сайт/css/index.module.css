@@ -1,0 +1,751 @@
+.image1559Icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1440px;
+    height: 736px;
+    object-fit: cover;
+}
+
+.child {
+    background: linear-gradient(102.76deg,
+            rgba(18, 18, 17, 0.78),
+            rgba(18, 18, 17, 0.6) 63.89%,
+            rgba(18, 18, 17, 0));
+}
+
+.child,
+.div1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1440px;
+    height: 736px;
+}
+
+.div2 {
+    position: relative;
+    font-weight: 300;
+}
+
+.parent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 160px;
+}
+
+.inner {
+    position: absolute;
+    top: 736px;
+    left: 0;
+    background-color: var(--bakery-landing-1-c2);
+    backdrop-filter: blur(4px);
+    width: 1440px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: var(--padding-base) 99px;
+    box-sizing: border-box;
+}
+
+.span {
+    color: var(--bakery-landing-1-background);
+}
+
+.div,
+.div5 {
+    position: absolute;
+}
+
+.div5 {
+    top: 272px;
+    left: 158px;
+    font-size: 128px;
+    font-weight: 900;
+    text-align: center;
+    color: var(--bakery-landing-1-c2);
+}
+
+.div {
+    top: 0;
+    left: 0;
+    width: 1440px;
+    height: 798px;
+    font-size: var(--font-size-xl);
+    color: var(--bakery-landing-1-background);
+}
+
+.div7 {
+    position: relative;
+    font-size: var(--bakery-landing-1-h1-size);
+    line-height: 84px;
+    font-weight: 900;
+    display: inline-block;
+    width: 710px;
+}
+
+.shopBakery {
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.span1 {
+    color: var(--bakery-landing-1-1);
+}
+
+.shopBakeryContainer {
+    position: relative;
+    display: inline-block;
+    width: 711px;
+    color: var(--bakery-landing-1-c2);
+}
+
+.p {
+    margin: 0;
+}
+
+.span2 {
+    font-weight: 600;
+    font-family: var(--bakery-landing-1-h5);
+    color: var(--bakery-landing-1-c2);
+}
+
+.div8 {
+    position: relative;
+    display: inline-block;
+    width: 711px;
+}
+
+.group {
+    top: 0;
+    left: 0;
+    width: 708px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-23xl);
+}
+
+.div6,
+.group,
+.maskGroupIcon {
+    position: absolute;
+    height: 466px;
+}
+
+.maskGroupIcon {
+    top: 0;
+    left: 812px;
+    width: 393px;
+    object-fit: cover;
+}
+
+.div6 {
+    top: 894px;
+    left: 100px;
+    width: 1205px;
+    font-size: var(--bakery-landing-1-h5-size);
+}
+
+.p5 {
+    margin: 0;
+    color: var(--bakery-landing-1-3);
+}
+
+.div10 {
+    position: absolute;
+    top: 0;
+    left: 360px;
+    line-height: 84px;
+    font-weight: 900;
+}
+
+.groupChild,
+.groupItem {
+    position: absolute;
+    top: 144px;
+    left: -1px;
+    border-top: 2px solid var(--bakery-landing-1-c5);
+    box-sizing: border-box;
+    width: 354px;
+    height: 2px;
+}
+
+.groupItem {
+    left: 887px;
+}
+
+.container {
+    position: relative;
+    width: 1240px;
+    height: 168px;
+}
+
+.groupInner,
+.rectangleDiv {
+    position: absolute;
+    top: 16px;
+    left: 635px;
+    border-radius: var(--br-9xs) var(--br-9xs) var(--br-9xs) var(--br-181xl);
+    border: 1px solid var(--bakery-landing-1-4);
+    box-sizing: border-box;
+    width: 241px;
+    height: 390px;
+}
+
+.rectangleDiv {
+    left: 0;
+}
+
+.maskGroupIcon1 {
+    position: relative;
+    width: 241px;
+    height: 390px;
+    object-fit: cover;
+}
+
+.div11 {
+    position: relative;
+    font-weight: 600;
+}
+
+.txt {
+    line-break: anywhere;
+    width: 100%;
+}
+
+.frameDiv,
+.maskGroupParent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-base);
+}
+
+.maskGroupParent {
+    flex-direction: row;
+    gap: var(--gap-11xl);
+}
+
+.shopBekeryContainer {
+    position: relative;
+    font-size: var(--bakery-landing-1-h5-size);
+    display: flex;
+    align-items: center;
+    width: 334px;
+}
+
+.frameParent {
+    position: absolute;
+    top: 0;
+    left: 16px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-11xl);
+}
+
+.rectangleParent {
+    position: relative;
+    width: 1256px;
+    height: 406px;
+    text-align: left;
+    font-size: var(--font-size-21xl);
+}
+
+.div9 {
+    position: absolute;
+    top: 1456px;
+    left: 84px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: var(--gap-61xl);
+    text-align: center;
+}
+
+.div15 {
+    position: relative;
+    line-height: 84px;
+    font-weight: 900;
+}
+
+.groupChild1,
+.puri091 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-base);
+    width: 349px;
+    height: 444px;
+}
+
+.puri091 {
+    object-fit: cover;
+}
+
+.groupChild1 {
+    background: linear-gradient(180deg,
+            rgba(49, 38, 26, 0) 55.21%,
+            rgba(49, 38, 26, 0.71) 72.92%,
+            #31261a);
+}
+
+.div16,
+.walrus {
+    position: relative;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    width: 301px;
+}
+
+.div16 {
+    font-size: var(--bakery-landing-1-h7-size);
+    font-weight: 300;
+    height: 120px;
+    flex-shrink: 0;
+}
+
+.text {
+    position: absolute;
+    top: 248px;
+    left: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-base);
+}
+
+.rectangleGroup {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 349px;
+    height: 444px;
+}
+
+.puri091Parent {
+    position: relative;
+    width: 349px;
+    height: 444px;
+}
+
+.groupContainer {
+    position: absolute;
+    top: 0;
+    left: 77px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 20px;
+}
+
+.arrowIcon {
+    position: relative;
+    width: 44px;
+    height: 44px;
+}
+
+.arrowParent {
+    position: absolute;
+    top: 200px;
+    left: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 1152px;
+}
+
+.frameGroup {
+    position: relative;
+    width: 1240px;
+    height: 444px;
+}
+
+.ellipseDiv,
+.item {
+    position: relative;
+    border-radius: 50%;
+    width: 11px;
+    height: 11px;
+}
+
+.item {
+    background-color: #73835a;
+}
+
+.ellipseDiv {
+    background-color: var(--bakery-landing-1-4);
+}
+
+.div19 {
+    width: 121px;
+    height: 11px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    gap: var(--gap-5xl);
+}
+
+.div14,
+.groupParent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.groupParent {
+    gap: var(--gap-13xl);
+    text-align: left;
+    font-size: var(--font-size-5xl);
+    color: var(--bakery-landing-1-background);
+}
+
+.div14 {
+    position: absolute;
+    top: 2206px;
+    left: 100px;
+    gap: var(--gap-61xl);
+    text-align: center;
+}
+
+.span3 {
+    color: var(--bakery-landing-1-c2);
+}
+
+.div21 {
+    position: relative;
+    line-height: 84px;
+    font-weight: 900;
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 605px;
+}
+
+.div22,
+.parent2 {
+    width: 605px;
+    display: flex;
+}
+
+.div22 {
+    position: relative;
+    font-size: var(--bakery-landing-1-h5-size);
+    color: var(--bakery-landing-1-3);
+    align-items: center;
+}
+
+.parent2 {
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-base);
+}
+
+.child3,
+.div24 {
+    position: absolute;
+}
+
+.child3 {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-5xs);
+    border: 1px solid var(--bakery-landing-1-4);
+    box-sizing: border-box;
+}
+
+.div24 {
+    height: 41.82%;
+    width: 86.12%;
+    top: 29.09%;
+    left: 6.94%;
+    display: inline-block;
+}
+
+.div23,
+.div25 {
+    position: relative;
+    width: 605px;
+    height: 55px;
+}
+
+.div25 {
+    font-size: var(--bakery-landing-1-h6-size);
+    font-family: var(--beauty-landing-2-6);
+}
+
+.batton,
+.parent3 {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.batton {
+    border-radius: var(--br-5xs);
+    background-color: var(--bakery-landing-1-c2);
+    border: 2px solid var(--bakery-landing-1-c2);
+    flex-direction: row;
+    align-items: flex-start;
+    padding: var(--padding-base) var(--padding-13xl);
+    color: var(--bakery-landing-1-background);
+}
+
+.parent3 {
+    flex-direction: column;
+    align-items: center;
+    gap: var(--gap-5xl);
+}
+
+.span4 {
+    text-decoration: underline;
+}
+
+.div30 {
+    position: relative;
+    font-size: var(--font-size-xs);
+    color: var(--bakery-landing-1-1);
+    text-align: center;
+    display: inline-block;
+    width: 240px;
+}
+
+.frameContainer,
+.frameParent1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.frameParent1 {
+    align-items: center;
+    gap: var(--gap-base);
+    font-size: var(--bakery-landing-1-h5-size);
+    color: var(--bakery-landing-1-4);
+}
+
+.frameContainer {
+    align-items: flex-start;
+    gap: var(--gap-23xl);
+}
+
+.rectangleIcon {
+    position: relative;
+    border-radius: var(--br-base);
+    width: 603px;
+    height: 595px;
+    object-fit: cover;
+}
+
+.div20 {
+    position: absolute;
+    top: 2953px;
+    left: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-13xl);
+}
+
+.image1564Icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1461px;
+    height: 547px;
+    object-fit: cover;
+}
+
+.logo,
+.span5 {
+    font-family: var(--font-gill-sans);
+}
+
+.span5 {
+    font-weight: 600;
+}
+
+.logo {
+    position: relative;
+    font-size: var(--font-size-5xl);
+    text-transform: uppercase;
+}
+
+.menuTextactive {
+    position: relative;
+    display: inline-block;
+    width: 211px;
+}
+
+.menuTextactiveParent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-base);
+    font-size: var(--bakery-landing-1-h5-size);
+}
+
+.shopbakerygmailcom {
+    position: relative;
+    font-weight: 300;
+    display: inline-block;
+    width: 211px;
+}
+
+.facebookBlackLogoIcon14713 {
+    position: relative;
+    width: 32px;
+    height: 32px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+
+.facebookBlackLogoIcon14713Parent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 22px;
+}
+
+.div34 {
+    position: relative;
+    font-size: var(--bakery-landing-1-h7-size);
+    color: var(--bakery-landing-1-4);
+    display: inline-block;
+    width: 211px;
+}
+
+.logoParent {
+    position: absolute;
+    top: 32px;
+    left: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 166px;
+}
+
+.mbadvnPhotoroom2Icon,
+.vsbkdjvbPhotoroom1Icon {
+    position: absolute;
+    top: 110px;
+    left: 0;
+    width: 178.1px;
+    height: 130px;
+    object-fit: cover;
+}
+
+.vsbkdjvbPhotoroom1Icon {
+    top: 44px;
+    left: 1062px;
+    width: 378px;
+    height: 196px;
+}
+
+.footer,
+.text3 {
+    position: absolute;
+}
+
+.text3 {
+    top: 202px;
+    left: 74px;
+    font-size: var(--font-size-xs);
+    font-family: var(--font-inter);
+    color: #fff;
+}
+
+.footer {
+    top: 3650px;
+    left: 0;
+    background-color: var(--bakery-landing-1-1);
+    width: 1440px;
+    height: 240px;
+    overflow: hidden;
+    font-size: var(--bakery-landing-1-h6-size);
+    color: var(--bakery-landing-1-background);
+}
+
+.logo1 {
+    position: relative;
+    font-size: var(--font-size-5xl);
+    text-transform: uppercase;
+    display: inline-block;
+    width: 114px;
+    flex-shrink: 0;
+    font-family: var(--font-gill-sans);
+}
+
+.menuTextactive1 {
+    font-weight: 600;
+    color: var(--bakery-landing-1-c2);
+}
+
+.menuTextactive1,
+.menuTextnormal3 {
+    position: relative;
+}
+
+.menuTextactiveGroup {
+    align-items: flex-start;
+    gap: 64px;
+    text-align: center;
+}
+
+.batton1,
+.header,
+.menuTextactiveGroup {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.batton1 {
+    border-radius: var(--br-5xs);
+    background-color: var(--bakery-landing-1-c2);
+    border: 2px solid var(--bakery-landing-1-c2);
+    align-items: flex-start;
+    padding: var(--padding-base) var(--padding-13xl);
+}
+
+.header {
+    position: absolute;
+    top: 32px;
+    left: 103px;
+    align-items: center;
+    gap: 152px;
+    font-size: var(--bakery-landing-1-h5-size);
+    color: var(--bakery-landing-1-background);
+}
+
+.bakeryLanding {
+    position: relative;
+    background-color: var(--bakery-landing-1-background);
+    width: 100%;
+    height: 3881px;
+    text-align: left;
+    font-size: var(--bakery-landing-1-h1-size);
+    color: var(--bakery-landing-1-1);
+    font-family: var(--bakery-landing-1-h5);
+}
